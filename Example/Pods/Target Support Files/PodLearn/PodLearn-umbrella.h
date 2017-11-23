@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Test.h"
 
 FOUNDATION_EXPORT double PodLearnVersionNumber;
 FOUNDATION_EXPORT const unsigned char PodLearnVersionString[];
