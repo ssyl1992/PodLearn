@@ -1,0 +1,6 @@
+framework module PodLearn {
+  umbrella header "PodLearn-umbrella.h"
+
+  export *
+  module * { export * }
+}
